@@ -13,7 +13,8 @@ client.on('ready', () => {
    console.log(`Loadinng...`);
    console.log(`This Bots Online ' `);
    console.log(`----------------`);
- 
+   console.log(`Logged in as ${client.user.tag}!`);
+  
 });
 
 
